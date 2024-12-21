@@ -11,6 +11,7 @@
 - Portugal 🇵🇹
 - I have a dog 🐕
 - Passionate about programming and new technologies 💻
+- And I use NeoVim btw
 
 
 ## Technologies and Tools
