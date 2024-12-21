@@ -14,7 +14,7 @@
 - And I use NeoVim btw
 
 
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 
 ![Java](https://camo.githubusercontent.com/e27bccee67ed570f4a06f055432a9802e768ea146f0c88b0a3d52999df445284/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230313f6c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d626c61636b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
