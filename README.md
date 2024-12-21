@@ -1,14 +1,17 @@
 # Hello there! 👋 I'm Francisco 
 
+
 ## Junior Software Engineer
 
-## :seedingling: About me 
+
+## 🌱 About me 
 
 - Financial Analyst and Accountant 📊:
 - Wannabe Developer
 - Portugal 🇵🇹
 - I have a dog 🐕
 - Passionate about programming and new technologies 💻
+
 
 ## Technologies and Tools
 
