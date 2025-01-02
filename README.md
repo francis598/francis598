@@ -32,7 +32,7 @@
 ## 📨 Contacts
 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/francis598)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franciscosimoees/)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/franciscosimoees/)
 
 ## 📈 GitHub Stats
 
