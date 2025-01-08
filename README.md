@@ -34,7 +34,3 @@
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/francis598)
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/franciscosimoees/)
 
-## 📈 GitHub Stats
-
-![Francisco's streak](https://github-readme-streak-stats.herokuapp.com/?user=francis598&theme=vue-dark&hide_border=true)
-
